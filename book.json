@@ -1,0 +1,17 @@
+{
+  "IDbook": {
+    "N": "7"
+  },
+  "author": {
+    "S": "Arthur Conan Doyle"
+  },
+  "jenre": {
+    "S": "Detective"
+  },
+  "namebook": {
+    "S": "The Hound of the Baskervilles"
+  },
+  "year": {
+    "N": "1959"
+  }
+}
